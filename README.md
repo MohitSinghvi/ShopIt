@@ -1,6 +1,6 @@
 # ShopIt
 Basic Shopping App (Uses Sqlite to store products)
-This a very basic android shopping app. Requires Camera and location permissions.
+This is a very basic android shopping app. Requires Camera and location permissions.
 
 How to use:
 1. Run on Android Studio
