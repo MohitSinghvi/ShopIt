@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Shopit</string>
+    <string name="search">What are you looking for?</string>
+    <string name="search_button">Search</string>
+    <string name="iphone_name">IphoneX</string>
+    <string name="price">₹79,000</string>
+    <string name="login_button">login</string>
+    <string name="logout_button">logout</string>
+    <string name="sign_up_Button">Sign up</string>
+    <string name="user_name">username</string>
+    <string name="email">email</string>
+    <string name="password">password</string>
+    <string name="product_name">Product Name</string>
+    <string name="product_brand">Product Brand</string>
+    <string name="product_description">Product Description</string>
+    <string name="product_image">Product_Image</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
